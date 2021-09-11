@@ -1,5 +1,5 @@
 # lima-specification
-A less is more take on business line app development
+A "Less is more" inspired take on back office app development.
 
 Web apps are everywhere nowadays. They have indeniable advantages when it comes to deliver an up to date product to the largest userbase possible.
 But are they a good choice for business line web app, back office tools?
